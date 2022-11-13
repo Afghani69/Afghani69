@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Afghani69
 - 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning basic skills to improve my knowledge of the field.
-- 💞️ I’m looking to collaborate on and Frontend projects.
+- 💞️ I’m looking to collaborate on and Frontend projects using JS, HTML & CSS technologies.
 - 📫 How to reach me ebreyt@gmail.com
 
 <!---
